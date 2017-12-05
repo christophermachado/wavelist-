@@ -1,0 +1,20 @@
+---
+waves:
+  - name: wave_1
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.008'
+    scope: ['all']
+    targets:
+      - "03876"
+
+  - name: wave_2
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.008'
+    scope: ['all']
+    targets:
+      - "03907"
+      - "03874"

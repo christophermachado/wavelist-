@@ -1,0 +1,82 @@
+---
+waves:
+  - name:
+    type:
+    region:
+    country:
+    release_version: ''
+    scope: ['all'] #options for retail server, register, workstation
+    targets:
+      - "0"
+      - "0"
+
+  - name:
+    type:
+    region:
+    country:
+    release_version: ''
+    scope: ['']
+    targets:
+      - "0"
+      - "0"
+
+  - name:
+    type:
+    region:
+    country:
+    release_version: ''
+    scope: ['']
+    targets:
+      - "0"
+      - "0"
+
+  - name:
+    type:
+    region:
+    country:
+    release_version: ''
+    scope: ['']
+    targets:
+      - "0"
+      - "0"
+
+  - name:
+    type:
+    region:
+    country:
+    release_version: ''
+    scope: ['']
+    targets:
+      - "0"
+      - "0"
+
+  - name:
+    type:
+    region:
+    country:
+    release_version: ''
+    scope: ['']
+    targets:
+      - "0"
+      - "0"
+
+  - name:
+    type:
+    region:
+    country:
+    release_version: ''
+    scope: ['']
+    targets:
+      - "0"
+      - "0"
+
+  - name:
+    type:
+    region:
+    country:
+    release_version: ''
+    scope: ['']
+    targets:
+      - "0"
+      - "0"
+      - "0"

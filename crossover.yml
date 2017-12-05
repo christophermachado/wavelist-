@@ -1,0 +1,338 @@
+---
+waves:
+  - name: pilot
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.005'
+    scope: ['all'] #options for retail server, register, workstation
+    targets:
+      - "03848"
+      - "03727"
+
+  - name: extended_pilot
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.005'
+    scope: ['all']
+    targets:
+      - "03708"
+      - "03789"
+      - "03764"
+
+  - name: wave_1
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.005'
+    scope: ['all']
+    targets:
+      - "03468"
+      - "03421"
+      - "03787"
+      - "03795"
+      - "03493"
+      - "03854"
+
+  - name: wave_2
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.006'
+    scope: ['all']
+    targets:
+      - "03403"
+      - "03632"
+      - "03709"
+      - "03677"
+      - "03415"
+      - "03494"
+      - "03737"
+      - "03788"
+      - "03812"
+      - "03816"
+      - "03819"
+      - "03829"
+
+  - name: wave_3
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.008'
+    scope: ['all']
+    targets:
+      - "03698"
+      - "03720"
+      - "03489"
+      - "03423"
+      - "03447"
+      - "03786"
+      - "03657"
+      - "03805"
+      - "03673"
+      - "03803"
+      - "03817"
+      - "03825"
+      - "03864"
+      - "03405"
+
+  - name: wave_4
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.009'
+    scope: ['all']
+    targets:
+      - "03833"
+      - "03498"
+      - "03413"
+      - "03674"
+      - "03491"
+      - "03783"
+      - "03687"
+      - "03800"
+      - "03734"
+      - "03616"
+      - "03820"
+      - "03827"
+      - "03841"
+      - "03652"
+
+  - name: wave_5
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.009'
+    scope: ['all']
+    targets:
+      - "03770"
+      - "03660"
+      - "03645"
+      - "03781"
+      - "03799"
+      - "03652"
+      - "03656"
+      - "03758"
+      - "03600"
+      - "03811"
+      - "03841"
+      - "03842"
+      - "03845"
+      - "03828"
+
+  - name: wave_6
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.009'
+    scope: ['all']
+    targets:
+      - "03661"
+      - "03453"
+      - "03699"
+      - "03476"
+      - "03771"
+      - "03701"
+      - "03823"
+      - "03821"
+      - "03865"
+      - "03784"
+      - "03856"
+      - "03754"
+      - "03748"
+      - "03880"
+
+  - name: wave_7
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.009'
+    scope: ['all']
+    targets:
+      - "03437"
+      - "03630"
+      - "03670"
+      - "03678"
+      - "03695"
+      - "03702"
+      - "03798"
+      - "03824"
+      - "03853"
+      - "03871"
+      - "03897"
+      - "03445"
+      - "03712"
+      - "03627"
+      - "03619"
+      - "03710"
+      - "03707"
+
+  - name: wave_8
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.009'
+    scope: ['all']
+    targets:
+      - "03831"
+      - "03626"
+      - "03815"
+      - "03492"
+      - "03755"
+      - "03859"
+      - "03418"
+      - "03454"
+      - "03750"
+      - "03860"
+      - "03684"
+      - "03752"
+      - "03867"
+      - "03686"
+      - "03649"
+      - "03700"
+      - "03730"
+      - "03742"
+      - "03475"
+      - "03735"
+
+  - name: wave_9
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.009'
+    scope: ['all']
+    targets:
+      - "03463"
+      - "03449"
+      - "03814"
+      - "03868"
+      - "03778"
+      - "03444"
+      - "03813"
+      - "03706"
+      - "03767"
+      - "03635"
+      - "03505"
+      - "03863"
+      - "03872"
+      - "03879"
+      - "03682"
+      - "03785"
+      - "03746"
+      - "03792"
+      - "03804"
+      - "03826"
+
+  - name: wave_10
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.009'
+    scope: ['all']
+    targets:
+      - "03663"
+      - "03861"
+      - "03631"
+      - "03756"
+      - "03846"
+      - "03774"
+      - "03818"
+      - "03847"
+      - "03731"
+      - "03669"
+      - "03882"
+      - "03900"
+      - "03780"
+      - "03769"
+      - "03772"
+      - "03664"
+      - "03456"
+      - "03807"
+      - "03830"
+      - "03830"
+      - "03680"
+
+  - name: wave_11
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.009'
+    scope: ['all']
+    targets:
+      - "03401"
+      - "03718"
+      - "03633"
+      - "03416"
+      - "03808"
+      - "03858"
+      - "03638"
+      - "03849"
+      - "03497"
+      - "03711"
+      - "03659"
+      - "03615"
+      - "03715"
+      - "03822"
+      - "03658"
+      - "03654"
+      - "03779"
+      - "03739"
+      - "03426"
+      - "03671"
+
+  - name: wave_12
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.009'
+    scope: ['all']
+    targets:
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+
+  - name: wave_13
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.009'
+    scope: ['all']
+    targets:
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"
+      - "0"

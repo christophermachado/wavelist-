@@ -1,0 +1,28 @@
+---
+waves:
+  - name: pilot
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.005'
+    scope: ['all'] #options for retail server, register, workstation
+    targets:
+      - "03441"
+
+  - name: extended_pilot
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.005'
+    scope: ['all']
+    targets:
+      - "20038"
+
+  - name: wave_1
+    type: retail
+    region: APAC
+    country: CHN
+    release_version: 'production/2017.06.005'
+    scope: ['all']
+    targets:
+      - "03408"
